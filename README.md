@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 Just another repository
 
 Hello dear reader,
